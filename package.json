@@ -1,0 +1,37 @@
+{
+  "name": "nw-zip-builder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/nw-zip-builder.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/nw-zip-builder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/nw-zip-builder/issues"
+  },
+  "version": "1.0.0",
+  "description": "nw.js builder wrapper",
+  "main": "lib/archive-zip.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nw.js",
+    "node-webkit",
+    "zip",
+    "build",
+    "release"
+  ],
+  "devDependencies": {
+    "node-webkit-builder": "^1.0.12",
+    "optimist": "^0.6.1"
+  },
+  "dependencies": {
+    "archiver": "^0.14.4"
+  }
+}
