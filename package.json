@@ -33,11 +33,10 @@
     "release"
   ],
   "devDependencies": {
-    "node-webkit-builder": "^1.0.12",
-    "optimist": "^0.6.1"
   },
   "dependencies": {
     "archiver": "^0.14.4",
+    "node-webkit-builder": "^1.0.12",
     "optimist": "^0.6.1"
   }
 }
