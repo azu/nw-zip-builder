@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/azu/nw-zip-builder/issues"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nw.js builder wrapper",
   "main": "lib/archive-zip.js",
   "bin": {
@@ -32,8 +32,7 @@
     "build",
     "release"
   ],
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "archiver": "^0.14.4",
     "node-webkit-builder": "^1.0.12",
