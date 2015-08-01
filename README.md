@@ -4,6 +4,8 @@ This command line tool is wrapper of [mllrsohn/node-webkit-builder](https://gith
 
 Simply `nw.build().then(zipped!)`
 
+For electron: [azu/electron-zip-packager](https://github.com/azu/electron-zip-packager "azu/electron-zip-packager")
+
 ## Installation
 
     npm install nw-zip-builder --save-dev
