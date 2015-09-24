@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nw-builder -p win32 -v 0.12.0"
+    "test": "nw-zip-builder -p win32 -v 0.12.0 && ls"
   },
   "author": "azu",
   "license": "MIT",
