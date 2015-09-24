@@ -1,4 +1,4 @@
-# nw-zip-builder
+# nw-zip-builder [![Build Status](https://travis-ci.org/azu/nw-zip-builder.svg?branch=master)](https://travis-ci.org/azu/nw-zip-builder)
 
 This command line tool is wrapper of [mllrsohn/node-webkit-builder](https://github.com/mllrsohn/node-webkit-builder "mllrsohn/node-webkit-builder").
 
