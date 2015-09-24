@@ -15,6 +15,8 @@ For electron: [azu/electron-zip-packager](https://github.com/azu/electron-zip-pa
     nw-zip-builder -p osx32 ./path/to/app
     # => app-osx32.zip
 
+See [example/package.json](example/package.json)
+
 ## Contributing
 
 1. Fork it!
