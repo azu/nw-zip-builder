@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var optimist = require('optimist');
-var NwBuilder = require('node-webkit-builder');
+var NwBuilder = require('nw-builder');
 var path = require('path');
 
 var argv = optimist

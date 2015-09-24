@@ -24,7 +24,9 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "cd example && npm test"
+  },
   "keywords": [
     "nw.js",
     "node-webkit",
@@ -35,7 +37,7 @@
   "devDependencies": {},
   "dependencies": {
     "archiver": "^0.14.4",
-    "node-webkit-builder": "^1.0.12",
+    "nw-builder": "^2.0.2",
     "optimist": "^0.6.1"
   }
 }

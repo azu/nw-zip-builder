@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nw-builder -p win32 -v 0.12.0"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "nw-zip-builder": "file:.."
+  }
+}
