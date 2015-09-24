@@ -56,7 +56,7 @@ var options = {
 };
 
 // Build App
-options.files = [options.files, "!nw-zip-builder/**/*", "!" + options.cacheDir +"/**/*"];
+options.files = [options.files, "!node_modules/nw-zip-builder/**/*", "!" + options.cacheDir +"/**/*"];
 var nw = new NwBuilder(options);
 
 // Logging
